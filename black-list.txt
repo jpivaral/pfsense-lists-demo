@@ -1,2 +1,5 @@
-157.240.233.35/32
-157.240.233.60/32
+facebook.com
+www.facebook.com
+web.facebook.com
+web.whatsapp.com
+www.whatsapp.com
